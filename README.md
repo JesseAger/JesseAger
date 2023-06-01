@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JesseAger
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on web developement
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning python programming
+- 💞️ I’m looking to collaborate on Python for Data science and ML
 - 📫 How to reach me @agerjesse6@gmail.com
 
 <!---
