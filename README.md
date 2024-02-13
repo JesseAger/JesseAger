@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Solidity, Tezos LIGO**
 
-💬 Ask me about **C, Python, React.js, Shell Programming, Data Presentation**
+💬 Ask me about **C, Python, React.js, Shell Programming, Data Visualization**
 
 
  </div>
