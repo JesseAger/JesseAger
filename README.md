@@ -1,5 +1,5 @@
 <h1>Hello there, am Jesse Ager</h1>
-<p>Frontend developer and Software engineer</p>
+<p>Frontend developement and System DevOps</p>
 <h3>Skills:</h3>
 <ul>
     <li>JavaScript</li>
