@@ -3,7 +3,7 @@
 <h3>Skills:</h3>
 <ul>
     <li>Django</li>
-    <li>REST API && Flask/li>
+    <li>REST API && Flask</li>
     <li>Python</li>
     <li>JavaScript</li>
     <li>React.js</li>
