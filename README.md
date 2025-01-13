@@ -6,6 +6,6 @@
     <li>Python Programming for Data Analysi and Data Science</li>
     <li>JavaScript</li>
     <li>C Language</li>
-    <li>Frontend Developmnetli>
-        
+    <li>Frontend Developmnetli> 
 </ul>
+
