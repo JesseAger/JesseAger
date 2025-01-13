@@ -1,12 +1,11 @@
 <h1>Hello there, am Jesse Ager</h1>
-<p>Backend developer and System DevOps</p>
+<h3>Backend developer and System DevOps Specialist</h3>
 <h3>Skills:</h3>
 <ul>
-    <li>Django</li>
-    <li>REST API && Flask</li>
-    <li>Python</li>
+    <li>Backend Development using Django Framework</li>
+    <li>Python Programming for Data Analysi and Data Science</li>
     <li>JavaScript</li>
-    <li>React.js</li>
-    <li>C</li>
-    <li>Shell Scripting</li>
+    <li>C Language</li>
+    <li>Frontend Developmnetli>
+        
 </ul>
